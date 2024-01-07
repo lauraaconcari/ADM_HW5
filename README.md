@@ -12,4 +12,4 @@ The Group is composed by the following members:
 - `Main.ipynb`: this file contains all the answers to the Research Questions including AQ.
 - `output_commandline.png`: this file contains images required to answer the Command Line Question (CLQ)
 - `CommandLine.sh`:  shell script used to answer the first part of the Command Line Question (CLQ)
-- `CommandLine_files`: This folder contains four files (betweenness_centrality.csv, degree_of_citation.csv, path_lengths.csv and the python script used to make those called file_creation.py)
+- `CommandLine_files`: This folder contains three files (betweenness_centrality.csv, degree_of_citation.csv, path_lengths.csv). These file were created using the functions in the main.ipynb file at '[4] Command Line Question (CLQ)'
