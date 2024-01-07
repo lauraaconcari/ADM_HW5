@@ -9,9 +9,7 @@ The Group is composed by the following members:
 - Claudio Giannini (2093898, giannini.2093898@studenti.uniroma1.it)
 
 ## Files in the Repository:
-- `Main.ipynb`: this file contains all the answers to the Research Questions.
+- `Main.ipynb`: this file contains all the answers to the Research Questions including AQ.
 - `output_commandline.png`: this file contains images required to answer the Command Line Question (CLQ)
 - `CommandLine.sh`:  shell script used to answer the first part of the Command Line Question (CLQ)
-- `python_implementation_CLQ.py`: This folder contains four files (betweenness_centrality.csv, degree_of_citation.csv, path_lengths.csv and the python script used to make those called file_creation.py)
-- `AQ.ipynb`: this file contains the script the answer the Algorithmic Question (AQ)
-
+- `CommandLine_files`: This folder contains four files (betweenness_centrality.csv, degree_of_citation.csv, path_lengths.csv and the python script used to make those called file_creation.py)
